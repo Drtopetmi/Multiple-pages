@@ -1,0 +1,22 @@
+body {
+  background: rgb(248, 232, 166);
+}
+h1,
+p {
+  text-align: center;
+  margin-top: 30px;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+}
+footer a {
+  color: rgb(0, 141, 107);
+  margin: 20px;
+}
+.croissant {
+  width: 400px;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
